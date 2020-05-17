@@ -13,6 +13,8 @@ Input images:
 
 Output morphs:
 
+![me_lion](/results/MeLion_compressed.gif)
+
 ## Running the code
 ```
 click_correspondences.py
